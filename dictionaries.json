@@ -1,0 +1,14 @@
+{
+  "layout": [
+    {
+      "Front": null,
+      "dash": "leather",
+      "steering": "leather"
+    },
+    {
+      "Rear": null,
+      "seats": "leather",
+      "footmats": true
+    }
+  ]
+}

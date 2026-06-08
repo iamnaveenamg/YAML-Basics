@@ -1,0 +1,35 @@
+---
+# Key Value pair are termed as Mappings
+# Mappings
+
+vehicle_type: car
+wheels: 4
+car_type: sedan
+
+
+#scalars
+vendor: audi # unquoted scalar
+make: "Q7" # Quoted Scalar
+dealer_address2: "some street\n, some state\t, some country"
+dealer_address3: 'some street\n, some state\t, some country'
+
+
+# Another Type
+
+vendor1: audi
+make1: "Q7"
+
+dealer_address: Some Street
+  some state,
+  some country
+
+d_address2: >
+  some street
+  some state,
+  some country
+
+d_address3: |
+  some street
+  some state,
+  some country
+  

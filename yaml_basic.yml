@@ -1,0 +1,32 @@
+# YAML
+
+---
+# Dictionaries
+layout:
+  - Front:
+    dash: leather
+    steering: leather
+  - Rear:
+    seats: leather
+    footmats: true
+
+
+employee:
+  name: "Jane Doe"
+  role: "Developer"
+  active: true
+  contact:
+    email: "jane.doe@example.com"
+    phone: "123-456-7890"
+
+
+
+---
+site_name: YAML Course documentation
+theme: readthedocs
+highlightjs: true
+site_dir: docs/
+hljs_languages:
+  - yaml
+  - python
+

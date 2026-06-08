@@ -1,0 +1,23 @@
+{
+  "layout": [
+    {
+      "Front": null,
+      "dash": "leather",
+      "steering": "leather"
+    },
+    {
+      "Rear": null,
+      "seats": "leather",
+      "footmats": true
+    }
+  ],
+  "employee": {
+    "name": "Jane Doe",
+    "role": "Developer",
+    "active": true,
+    "contact": {
+      "email": "jane.doe@example.com",
+      "phone": "123-456-7890"
+    }
+  }
+}
